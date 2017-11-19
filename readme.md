@@ -1,6 +1,14 @@
-# JavaScript Assessment
+# OOP Classroom
 
-Description_Here
+This project will require you to build classes for objects you might find in a Galvanize classroom! You will build five classes:
+
+* Computer
+* Desk
+* Marker
+* Room
+* Student
+
+The tests best describe what properties and methods to build for each.
 
 ## Setup
 
